@@ -1,6 +1,6 @@
 {
-  "name": "password-generator",
-  "version": "1.0.0",
+  "name": "@mfarhad-dev/password-generator",
+  "version": "0.0.1",
   "description": "password generator for javascript",
   "main": "index.js",
   "directories": {
